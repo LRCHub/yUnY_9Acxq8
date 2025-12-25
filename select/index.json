@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "君が笑って仕舞えば",
+  "base_artist": "957",
+  "createdAt": "2025-12-25T13:52:45.829361Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "君が笑って仕舞えば",
+      "artist": "957",
+      "has_synced": false,
+      "path": "select/pl_01_君が笑って仕舞えば_957.txt"
+    }
+  ]
+}
